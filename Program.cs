@@ -10,6 +10,7 @@ namespace Labo2_Attr_ref
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
